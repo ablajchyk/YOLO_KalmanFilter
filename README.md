@@ -1,1 +1,1 @@
- YOLO detector and trajectory tracker KalmanFilter
+ YOLO human detector
